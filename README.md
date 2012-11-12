@@ -1,4 +1,2 @@
-nama-repository-yang-ingin-dibuat
-=================================
-
-Latihan Membuat Repository Git
+kita akan melakukan perubahan pada file ini
+dan akan menguploadnya di repository github yang telah kita buat
